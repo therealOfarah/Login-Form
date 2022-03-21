@@ -1,0 +1,28 @@
+.background{
+
+}
+.Account {
+  background-color: lightgrey;
+
+}
+main {
+  background-color: lightgrey;
+
+}
+#Log_In {
+  color: Black;
+}
+.footer {
+  position:
+}
+@media screen and (max-width: 900px) and (min-width: 00px), (min-width: 000px) {
+body{
+    font-size: 20px;
+    padding: 100px;
+    padding-bottom:400px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    background: white;
+  }
+}
